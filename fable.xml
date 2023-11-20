@@ -1,6 +1,6 @@
 <fable>
-	<page background> 
-  <agent>
+	<page background= "bg.png"> 
+  <agent text= Clique" font-size= 23>
     
   </page>
 </fable>
