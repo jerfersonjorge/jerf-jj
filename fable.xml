@@ -3,10 +3,10 @@
 	<page background="fundo_cat.jpg" soundtrack="song3.wav">
   
 		<agent 
-    text="Whiskers" font-size="30" x="200" y="450" 
+    text="Whiskers" font-size="30" x="190" y="450" 
       width="400" />
     
-    <agent  text="." 
+    <agent  text="Era uma vez, um." 
       x="20" y="400" width="" />
     
     <agent 
