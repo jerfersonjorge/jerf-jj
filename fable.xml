@@ -3,7 +3,7 @@
 	<page background="bg.png" soundtrack="song3.wav">
   
 		<agent 
-    text="" font-size="20" x="20" y="460" 
+    text="Whiskers" font-size="20" x="20" y="460" 
       width="400" />
     
     <agent  text="Era uma vez, um jovem cavaleiro que recebeu uma carta de sua amada pricesa." 
