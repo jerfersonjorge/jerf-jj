@@ -7,9 +7,12 @@
       width="400" />
     
     <agent  text="Em uma galáxia distante, um fenômeno extraordinário ocorreu quando um gato curioso, chamado de Whiskers.
-    Foi acidentalmente envolvido por uma anomalia espacial durante uma expedição científica." 
-      x="20" y="350" width="" />
-    
+Foi acidentalmente envolvido por uma anomalia espacial durante uma expedição científica." 
+      x="20" y="350" width="200" />
+    <agent 
+        text="Em uma galáxia distante, um fenômeno extraordinário ocorreu quando um gato curioso, chamado de Whiskers.
+Foi acidentalmente envolvido por uma anomalia espacial durante uma expedição científica." 
+      x="20" y="350" width="200" />
    
     
     
