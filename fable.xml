@@ -6,8 +6,8 @@
     text="Whiskers" font-size="30" x="190" y="450" 
       width="400" />
     
-    <agent  text="Era uma vez, um." 
-      x="20" y="400" width="" />
+    <agent  text="Em uma galáxia distante, um fenômeno extraordinário ocorreu quando um gato curioso, chamado de Whiskers, foi acidentalmente envolvido por uma anomalia espacial durante uma expedição científica." 
+      x="20" y="3" width="" />
     
     <agent 
       text="Ele ficou muito surpreso, pois sua amada tinha sumido misteriosamente na floresta." 
