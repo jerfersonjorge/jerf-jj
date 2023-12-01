@@ -15,10 +15,10 @@
       x="190" y="200" width="300" color="brown" />
     
     <agent 
-      text="O gato, agora dotado de estranhas habilidades cósmicas, encontrou-se flutuando pelo cosmos, envolto em um brilho iridescente, capaz de viajar entre os confins do universo." x="190" y="120" width="300"  />
+      text="O gato, agora dotado de estranhas habilidades cósmicas, encontrou-se flutuando pelo cosmos, , agora era capaz de viajar entre os confins do universo." x="190" y="10" width="300"  />
     <agent 
       text="Whiskers, com sua nova condição de gato espacial, explorou sistemas solares, saltando entre estrelas e deslizando por nebulosas." x="190" y="55" width="300"  />
     
     <agent 
-      text="Ele brincava com meteoritos, de maneira inexplicável e misteriosa, descobria um carinho por desafiar as leis da física, tornando-se uma lenda entre as constelações." x="190" y="1" width="300 />
+      text="Ele brincava com meteoritos e descobria um carinho por desafiar as leis da física, tornando-se uma lenda entre as constelações." x="190" y="1" width="300 />
              
