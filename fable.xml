@@ -4,15 +4,15 @@
 >
   
 		<agent 
-      text="O jovem Cavaleiro" font-size="20" x="20" y="460" 
-      width="400" color />
+      text="Whiskas" font-size="20" x="20" y="460" 
+      width="400" color="white" />
     
     <agent  text="Era uma vez, um jovem cavaleiro que recebeu uma carta de sua amada pricesa." 
-      x="20" y="400" width="300" color="yellow" />
+      x="20" y="400" width="300" color="white" />
     
     <agent 
       text="Ele ficou muito surpreso, pois sua amada tinha sumido misteriosamente na floresta." 
-      x="20" y="345" width="300" />
+      x="20" y="345" width="300" color="white" />
     
     <agent 
       text="Só que as notícias na carta não eram muito boas. Pois sua amada tinha caido numa armadilha e contraído uma doença desconhecida e precisava de ajuda." x="20" y="255" width="300" />
