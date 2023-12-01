@@ -1,6 +1,6 @@
 <fable>
 
-        <page background= "fundo_cat.jpg" >
+        <page background= "fundo_cat.jpg" soundtrack=>
             
             <agent 
                 text = "Whiskas" font-size = "20" x="20" y ="460"
