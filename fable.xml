@@ -4,7 +4,7 @@
 >
   
 		<agent 
-      text="Whiskas" font-size="20" x="200" y="460" 
+      text="Whiskas" font-size="2" x="200" y="460" 
       width="400" color="white" />
     
     <agent  text="Em uma galáxia distante, um fenômeno extraordinário ocorreu quando um gato curioso, chamado de Whiskers." 
@@ -20,5 +20,5 @@
       text="Whiskers, com sua nova condição de gato espacial, explorou sistemas solares, saltando entre estrelas e deslizando por nebulosas." x="190" y="35" width="300"  />
     
     <agent 
-      text="j" x="190" y="19" width="300 />
+      text="Ele brincava com meteoritos, de maneira inexplicável e misteriosa, descobria um carinho por desafiar as leis da física, tornando-se uma lenda entre as constelações." x="190" y="19" width="300 />
              
