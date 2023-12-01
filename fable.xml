@@ -3,4 +3,6 @@
         <page background= "fundo_cat.jpg" >
             
             <agent 
-                text = "Whiskas" font-size = "20" x= ""
+                text = "Whiskas" font-size = "20" x= "20" y = "460"
+                width= 400 />
+                
