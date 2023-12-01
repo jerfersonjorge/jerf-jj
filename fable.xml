@@ -8,11 +8,11 @@
       width="400" color="white" />
     
     <agent  text="Em uma galáxia distante, um fenômeno extraordinário ocorreu quando um gato curioso, chamado de Whiskers." 
-      x="190" y="230" width="300" color="brown" />
+      x="190" y="250" width="300" color="brown" />
     
     <agent 
-      text="foi acidentalmente envolvido por uma anomalia espacial durante uma expedição científica" 
-      x="190" y="180" width="300" color= "brown" />
+      text="Foi acidentalmente envolvido por uma anomalia espacial durante uma expedição científica." 
+      x="190" y="200" width="300" color="brown" />
     
     <agent 
       text="O gato, agora dotado de estranhas habilidades cósmicas, encontrou-se flutuando pelo cosmos, envolto em um brilho iridescente, capaz de viajar entre os confins do universo." x="190" y="100" width="300"  />
