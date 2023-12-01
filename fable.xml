@@ -7,8 +7,8 @@
       text="Whiskas" font-size="20" x="200" y="460" 
       width="400" color="white" />
     
-    <agent  text="Era uma vez, um jovem cavaleiro que recebeu uma carta de sua amada pricesa." 
-      x="190" y="230" width="300" color="white" />
+    <agent  text="Em uma galáxia distante, um fenômeno extraordinário ocorreu quando um gato curioso, chamado de Whiskers" 
+      x="190" y="230" width="300" color="yellow" />
     
     <agent 
       text="Ele ficou muito surpreso, pois sua amada tinha sumido misteriosamente na floresta." 
