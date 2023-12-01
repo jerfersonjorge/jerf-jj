@@ -4,7 +4,7 @@
 >
   
 		<agent 
-      text="Whiskas" font-size="20" x="200" y="460" 
+      text="Whiskas" font-size="20" x="290" y="310" 
       width="400" color="white" />
     
     <agent  text="Em uma galáxia distante, um fenômeno extraordinário ocorreu quando um gato curioso, chamado de Whiskers." 
