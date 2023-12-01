@@ -7,12 +7,12 @@
       text="Whiskas" font-size="20" x="200" y="460" 
       width="400" color="white" />
     
-    <agent  text="Em uma galáxia distante, um fenômeno extraordinário ocorreu quando um gato curioso, chamado de Whiskers" 
-      x="190" y="230" width="300" color="yellow" />
+    <agent  text="Em uma galáxia distante, um fenômeno extraordinário ocorreu quando um gato curioso, chamado de Whiskers." 
+      x="190" y="230" width="300" color="" />
     
     <agent 
-      text="Ele ficou muito surpreso, pois sua amada tinha sumido misteriosamente na floresta." 
-      x="190" y="180" width="300" color="white" />
+      text="foi acidentalmente envolvido por uma anomalia espacial durante uma expedição científica" 
+      x="190" y="180" width="300" " />
     
     <agent 
       text="Só que as notícias na carta não eram muito boas. Pois sua amada tinha caido numa armadilha e contraído uma doença desconhecida e precisava de ajuda." x="190" y="100" width="300" color="white" />
