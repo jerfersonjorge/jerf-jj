@@ -5,10 +5,10 @@
   
 		<agent 
       text="O jovem Cavaleiro" font-size="20" x="20" y="460" 
-      width="400" color= "white"/>
+      width="400" color />
     
     <agent  text="Era uma vez, um jovem cavaleiro que recebeu uma carta de sua amada pricesa." 
-      x="20" y="400" width="300" />
+      x="20" y="400" width="300" color="yellow" />
     
     <agent 
       text="Ele ficou muito surpreso, pois sua amada tinha sumido misteriosamente na floresta." 
