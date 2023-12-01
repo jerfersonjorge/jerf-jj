@@ -4,7 +4,7 @@
 >
   
 		<agent 
-      text="Whiskas" font-size="20" x="20" y="460" 
+      text="Whiskas" font-size="20" x="35" y="460" 
       width="400" color="white" />
     
     <agent  text="Era uma vez, um jovem cavaleiro que recebeu uma carta de sua amada pricesa." 
@@ -15,10 +15,10 @@
       x="20" y="345" width="300" color="white" />
     
     <agent 
-      text="Só que as notícias na carta não eram muito boas. Pois sua amada tinha caido numa armadilha e contraído uma doença desconhecida e precisava de ajuda." x="20" y="255" width="300" />
+      text="Só que as notícias na carta não eram muito boas. Pois sua amada tinha caido numa armadilha e contraído uma doença desconhecida e precisava de ajuda." x="20" y="255" width="300" color="white" />
     <agent 
-      text="Existia uma lenda que havia um cemitério e que nele tinha uma poção magica capaz de curar qualquer doença." x="20" y="200" width="300" />
+      text="Existia uma lenda que havia um cemitério e que nele tinha uma poção magica capaz de curar qualquer doença." x="20" y="200" width="300" color="white" />
     
     <agent 
-      text="O mais rápido que pôde ele foi ao encontro dessa amada." x="20" y="155" width="300"/>
+      text="O mais rápido que pôde ele foi ao encontro dessa amada." x="20" y="155" width="300" color="white" />
              
